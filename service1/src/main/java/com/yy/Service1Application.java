@@ -21,5 +21,5 @@ public class Service1Application {
     public String getConfigs(){
         return config1;
     }
-
+     //项目启动报错，废弃
 }
